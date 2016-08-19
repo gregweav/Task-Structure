@@ -31,7 +31,7 @@ sequences = {
 #
 
 
-# options for cue
+# Options for Cue
 options = {
 	1: [0],
 	2: [2],
